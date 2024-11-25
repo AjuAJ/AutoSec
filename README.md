@@ -9,7 +9,7 @@ Do you want to take the **Red Pill** and dive into the deep, secure world of **C
 
 ### 🌹 **Red Pill: CAN Bus Hacking (Automotive Systems)**
 
-By choosing the **Red Pill**, you will enter the world of **automotive systems** and **Controller Area Network (CAN)**, where you'll manipulate critical car systems to gain control of the vehicle. These challenges are complex and require an understanding of CAN topology, basic embedded systems (Arduino), UDS (Unified Diagnostics Services) and ofcourse security.
+By choosing the **Red Pill**, you will enter the world of **automotive systems** and **Controller Area Network (CAN)**, where you'll manipulate critical car systems to gain control of the vehicle. These challenges are complex and require an understanding of CAN topology, basic embedded systems (Arduino), UDS (Unified Diagnostics Services) and of course security.
 
 #### **Challenges:**
 
@@ -30,8 +30,8 @@ The **Blue Pill** represents the world of **modern connectivity**. You'll focus 
 #### **Challenges:**
 
 1. **Problem 1: Extract Wi-Fi Credentials**
-   - Your task is to gain access to the **vehicle's secure Wi-Fi network**. Using advanced wireless sniffing techniques, you'll extract the credentials, allowing you to connect to the vehicle’s network and retrieve critical information.
-   - Tools Required: **Wi-Fi sniffer**, **Packet analyzer**, **Network exploitation tools**
+   - Your task is to gain access to the **vehicle's secure Wi-Fi network**. Using  wireless sniffing techniques, you'll extract the credentials, allowing you to connect to the vehicle’s network and retrieve critical information.
+   - Tools Required: **Wireshark**, **nmap**, **Linux Machine**
 
 2. **Problem 2: Hijack Bluetooth Communication**
    - In this challenge, you'll be tasked with **hijacking Bluetooth communication** between the vehicle and an authorized device (like the car’s mobile app). Once inside, you can control functions such as the engine start/stop or even manipulate the car's dashboard displays.
