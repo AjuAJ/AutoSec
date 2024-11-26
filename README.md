@@ -49,22 +49,13 @@ The **Blue Pill** represents the world of **modern connectivity**. You'll focus 
 
 ### 📢 **Rules and Guidelines**
 
-1. **Tools**: You will be given access to certain tools and hardware (Linux Machine, Wireshark, Arduino etc.), depending on the path you choose. You are also free to use Google, GenAI and Chatgpt at any point of time. 
+1. **Tools**: You will be given access to certain tools and hardware (Linux Machine, Wireshark, Arduino etc.), depending on the path you choose. You are also free to use Google, MB GenAI (https://genai.app.corpintra.net/chat/gpt-4o) or Chatgpt at any point of time.
 2. **Path**: You have the freedom to switch between paths at any time during the challenge.
 3. **Time Limit**: The hackathon will last for **10 hours**. Complete as many challenges as you can in the time provided.
 3. **Collaboration**: While the challenges are designed for individual teams, feel free to collaborate and discuss problems with other team members.
 4. **Judging**: Submissions will be judged based on **creativity**, **complexity**, and **effectiveness** in solving the challenges.
 5. **Safety**: Please ensure that all actions are performed ethically and legally. Avoid damaging any systems or breaching any real-world security without authorization.
-
----
-
-### 📚 **Resources:**
-
-- **Red Pill Resources:**
-  
-
-- **Blue Pill Resources:**
-
+6. **Hardware Safety**: Please make sure you do not damage the hardware, for ex. never short the VCC and GND of any microcontroller unit. When in doubt, call for help!
 
 ---
 
