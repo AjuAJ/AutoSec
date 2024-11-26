@@ -1,12 +1,12 @@
 
-### **Your Objective**: 
+# **Your Objective**: 
 The primary goal of the challenge is to unlock a control unit, retrieve a stored cryptographic key, and demonstrate mastery of secure communication protocols.
 
-# Libs to be installed in ardunio 
+### Libs to be installed in ardunio 
 - CAN by Sandeep Mistry
 - Crypto by Rhys Weatherley
 
-# Challenge Breakdown
+### Challenge Breakdown
 
 1. **Initial Lock State**
    - The control unit starts in a locked state.
