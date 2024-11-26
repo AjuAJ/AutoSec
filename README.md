@@ -9,17 +9,21 @@ Do you want to take the **Red Pill** and dive into the deep, secure world of **C
 
 ### 🌹 **Red Pill: CAN Bus Hacking (Automotive Systems)**
 
-By choosing the **Red Pill**, you will enter the world of **automotive systems** and **Controller Area Network (CAN)**, where you'll manipulate critical car systems to gain control of the vehicle. These challenges are complex and require an understanding of CAN topology, basic embedded systems (Arduino), UDS (Unified Diagnostics Services) and of course security.
+By choosing the **Red Pill**, you will enter the world of **automotive systems** and **Controller Area Network (CAN)**, where you'll manipulate critical car systems to gain control of the vehicle. These challenges require an understanding of Basic CAN protocol, Basic Ardiuno programming, UDS (Unified Diagnostics Services) and of course Security.
 
 #### **Challenges:**
 
 1. **Problem 1: Hack the CAN Bus**
-   - Your mission is to infiltrate a vehicle's **CAN bus** and gain control over its electronic components, like the engine or door locking systems. The network is locked behind security measures, but with the right skills, you can manipulate the systems to your advantage.
-   - Tools Required: **CAN bus sniffer**, **OBD-II adapter**, **Reverse-engineering tools**
+   - Your mission is to infiltrate a vehicle's **CAN bus** and gain control over its electronic components, like the engine or door locking systems. The goal of this challenge is to intercept and manipulate unprotected communication between 2 ECUs to turn the LED ON, demonstrating the risks of unsecured systems.
+   - Tools Required: **Arduino**
 
-2. **Problem 2: Bypass the Vehicle Security**
-   - In this challenge, you'll focus on the security protocols built into the vehicle’s internal network. The goal is to **bypass the security system**, potentially disabling alarms, unlocking doors, or even starting the engine remotely.
-   - Tools Required: **CAN protocol analyzer**, **Security bypass tools**
+2. **Problem 2: Secured Access**
+   - 
+   - Tools Required:
+  
+3. **Problem 2: Secured Communication**
+   - 
+   - Tools Required:
 
 ---
 
@@ -32,16 +36,20 @@ The **Blue Pill** represents the world of **modern connectivity**. You'll focus 
 1. **Problem 1: Extract Wi-Fi Credentials**
    - Your task is to gain access to the **vehicle's secure Wi-Fi network**. Using  wireless sniffing techniques, you'll extract the credentials, allowing you to connect to the vehicle’s network and retrieve critical information.
    - Tools Required: **Wireshark**, **nmap**, **Linux Machine**
+  
+2. **Problem 2: Attack Wi-Fi Networks**
+   - In this challenge, you'll be tasked with **Attacking Open Wi-Fi Networks**. Using network enumerationa and monitoring techniques, you have to exploit the vulnerabilities and get access to confidentail information.
+   - Tools Required: **Wireshark**, **nmap**, **Linux Machine**
 
-2. **Problem 2: Hijack Bluetooth Communication**
-   - In this challenge, you'll be tasked with **hijacking Bluetooth communication** between the vehicle and an authorized device (like the car’s mobile app). Once inside, you can control functions such as the engine start/stop or even manipulate the car's dashboard displays.
-   - Tools Required: **Bluetooth scanner**, **MITM (Man-in-the-Middle) tools**, **Bluetooth protocol analyzer**
+3. **Problem 3: Hijack Bluetooth Communication**
+   - In this challenge, you'll be tasked with **hijacking Bluetooth communication** between two ECUs. Once inside, you can control functions such as the engine start/stop or even manipulate the car's dashboard displays.
+   - Tools Required: **Linux Machine**
 
 ---
 
 ### 📢 **Rules and Guidelines**
 
-1. **Tools**: You will be given access to certain tools and hardware (, etc.), depending on the path you choose.
+1. **Tools**: You will be given access to certain tools and hardware (Linux Machine, Wireshark, Arduino etc.), depending on the path you choose. You are also free to use Google, GenAI and Chatgpt at any point of time. 
 2. **Path**: You have the freedom to switch between paths at any time during the challenge.
 3. **Time Limit**: The hackathon will last for **10 hours**. Complete as many challenges as you can in the time provided.
 3. **Collaboration**: While the challenges are designed for individual teams, feel free to collaborate and discuss problems with other team members.
@@ -53,16 +61,10 @@ The **Blue Pill** represents the world of **modern connectivity**. You'll focus 
 ### 📚 **Resources:**
 
 - **Red Pill Resources:**
-   - CAN bus protocol documentation
-   - CAN sniffer tool guides
-   - OBD-II hacking tutorials
-   - Vehicle electronics overview
+  
 
 - **Blue Pill Resources:**
-   - Bluetooth protocol documentation
-   - Wi-Fi cracking tutorials
-   - Wireless network analysis tools
-   - Bluetooth hacking best practices
+
 
 ---
 
