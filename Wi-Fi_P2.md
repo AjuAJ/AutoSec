@@ -9,6 +9,9 @@ Monitor the communications between the individual's phone and the G-Wagon, and i
 
 This mission will test your skills in network enumeration, network traffic analysis, and exploiting security flaws in unencrypted web communication.
 
+**Bonus Mission:**  The system also holds a file with the names of all the double agents within our agency. Retrieve it, and you will be rewarded.
+
+
 ## Challenge Breakdown
 1. Enumerate the Wi-Fi network to identify if it's hosting any services like a web server, FTP, or Telnet.
 2. Monitor and Capture the packets when the owner disables and reactivates the secuity systems. 
