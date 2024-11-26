@@ -16,14 +16,9 @@ By choosing the **Red Pill**, you will enter the world of **automotive systems**
 1. **Problem 1: Hack the CAN Bus**
    - Your mission is to infiltrate a vehicle's **CAN bus** and gain control over its electronic components, like the engine or door locking systems. The goal of this challenge is to intercept and manipulate unprotected communication between 2 ECUs to turn the LED ON, demonstrating the risks of unsecured systems.
    - Tools Required: **Arduino**
-
-2. **Problem 2: Secured Access**
-   - 
-   - Tools Required:
   
+2. **Problem 2: Secured Access**
 3. **Problem 2: Secured Communication**
-   - 
-   - Tools Required:
 
 ---
 
