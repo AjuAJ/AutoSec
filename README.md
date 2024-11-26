@@ -21,7 +21,7 @@ By choosing the **Red Pill**, you will enter the world of **automotive systems**
    - The challenge involves solving a cryptographic handshake by responding correctly to a random seed. Once unlocked, you'll use UDS commands to retrieve a hidden key, proving your success.
    - Tools Required: **Arduino**
    - UNO and Driver: https://daimler.sharefile.eu/d-sd25737c608ed459bb01ca121f708c7ef (Due to limited laptops, we request the participants to download the IDE and drivers on your laptops)
-3.  **Problem 2: Secured Communication**
+3.  **Problem 3: Secured Communication**
    - The challenge involves decrypting and re-encrypting messages to interact with a vehicle's system, which uses UDS protocols. You'll need to identify the encryption algorithm protecting the data before sending valid commands. Once the encryption is cracked, you can send the correct message to control the system and turn on the LED.
    - Tools Required: **Arduino**
    - UNO and Driver: https://daimler.sharefile.eu/d-sd25737c608ed459bb01ca121f708c7ef (Due to limited laptops, we request the participants to download the IDE and drivers on your laptops)
