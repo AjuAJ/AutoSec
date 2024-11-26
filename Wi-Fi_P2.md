@@ -18,4 +18,6 @@ This mission will test your skills in network enumeration, network traffic analy
 3. Exploit the vulenabilty and Disable Security Systems.
 
 
-To Do: Provide useful links
+### Resources
+1. https://www.androidauthority.com/capture-data-open-wi-fi-726356/
+   
