@@ -17,10 +17,14 @@ By choosing the **Red Pill**, you will enter the world of **automotive systems**
    - Your mission is to infiltrate a vehicle's **CAN bus** and gain control over its electronic components, like the engine or door locking systems. The goal of this challenge is to intercept and manipulate unprotected communication between 2 ECUs to turn the LED ON, demonstrating the risks of unsecured systems.
    - Tools Required: **Arduino**
    - UNO and Driver: https://daimler.sharefile.eu/d-sd25737c608ed459bb01ca121f708c7ef (Due to limited laptops, we request the participants to download the IDE and drivers on your laptops)
-  
-2. **Problem 2: Secured Access**
-3. **Problem 2: Secured Communication**
-
+2.  **Problem 2: Secured Access**
+   - The challenge involves solving a cryptographic handshake by responding correctly to a random seed. Once unlocked, you'll use UDS commands to retrieve a hidden key, proving your success.
+   - Tools Required: **Arduino**
+   - UNO and Driver: https://daimler.sharefile.eu/d-sd25737c608ed459bb01ca121f708c7ef (Due to limited laptops, we request the participants to download the IDE and drivers on your laptops)
+3.  **Problem 2: Secured Communication**
+   - The challenge involves decrypting and re-encrypting messages to interact with a vehicle's system, which uses UDS protocols. You'll need to identify the encryption algorithm protecting the data before sending valid commands. Once the encryption is cracked, you can send the correct message to control the system and turn on the LED.
+   - Tools Required: **Arduino**
+   - UNO and Driver: https://daimler.sharefile.eu/d-sd25737c608ed459bb01ca121f708c7ef (Due to limited laptops, we request the participants to download the IDE and drivers on your laptops)
 ---
 
 ### 🔵 **Blue Pill: Wi-Fi & Bluetooth Hacking (Wireless Communication)**
