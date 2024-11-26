@@ -3,8 +3,7 @@
 The goal of this challenge is to intercept and manipulate unprotected communication between a transmitter and a receiver to turn the LED ON, demonstrating the risks of unsecured systems.
 
 ### Libs to be installed in ardunio 
-- CAN by Sandeep Mistry
-- Crypto by Rhys Weatherley
+- arduino-CAN by Sandeep Mistry
 
 ### Challenge Breakdown
 
