@@ -18,5 +18,5 @@ Time is critical, Agent. You must act swiftly and without leaving a trace.
 Bonus Mission: Think you're the best? Your challenge doesn’t end with the engine. Reset the odometer and cover your tracks. Leave no trace of your infiltration.
 
 ### Resources
-https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/
-https://www.bettercap.org/modules/ble/
+- https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/
+- https://www.bettercap.org/modules/ble/
