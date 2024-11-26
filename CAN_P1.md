@@ -16,7 +16,7 @@ The goal of this challenge is to intercept and manipulate unprotected communicat
    - Identify the specific command that turns the LED ON.
 
 3. **Taking Control of the LED**
-   - Turn the LED ON
+   - Keep the LED ON using your own data transmission, marking the challenge as complete.
    
 
    
