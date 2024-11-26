@@ -31,15 +31,15 @@ The **Blue Pill** represents the world of **modern connectivity**. You'll focus 
 
 1. **Problem 1: Extract Wi-Fi Credentials**
    - Your task is to gain access to the **vehicle's secure Wi-Fi network**. Using  wireless sniffing techniques, you'll extract the credentials, allowing you to connect to the vehicle’s network and retrieve critical information.
-   - Tools Required: **Wireshark**, **nmap**, **Linux Machine**
+   - Tools Required: **Wireshark**, **nmap**, **Linux**
   
 2. **Problem 2: Attack Wi-Fi Networks**
-   - In this challenge, you'll be tasked with **Attacking Open Wi-Fi Networks**. Using network enumerationa and monitoring techniques, you have to exploit the vulnerabilities and get access to confidentail information.
-   - Tools Required: **Wireshark**, **nmap**, **Linux Machine**
+   - In this challenge, you'll be tasked with **Attacking Open Wi-Fi Networks**. Using network enumeration and monitoring techniques, you have to exploit the vulnerabilities and get access to confidentail information.
+   - Tools Required: **Wireshark**, **nmap**, **Linux**
 
 3. **Problem 3: Hijack Bluetooth Communication**
    - In this challenge, you'll be tasked with **hijacking Bluetooth communication** between two ECUs. Once inside, you can control functions such as the engine start/stop or even manipulate the car's dashboard displays.
-   - Tools Required: **Linux Machine**
+   - Tools Required: **Linux**
 
 ---
 
