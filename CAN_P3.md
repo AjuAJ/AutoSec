@@ -3,7 +3,7 @@
 The goal of this challenge is to turn on the vehicle's LED, but the communication is encrypted, adding a layer of complexity. To succeed, you must identify the algorithm and the mode used. And then encrypt the message accordingly
 
 ### Libs to be installed in ardunio 
-- CAN by Sandeep Mistry
+- arduino-CAN by Sandeep Mistry
 - Crypto by Rhys Weatherley
 
 ### Challenge Breakdown
