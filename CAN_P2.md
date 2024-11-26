@@ -3,7 +3,7 @@
 The primary goal of the challenge is to unlock a control unit, retrieve a stored cryptographic key, and demonstrate mastery of secure communication protocols.
 
 ### Libs to be installed in ardunio 
-- CAN by Sandeep Mistry
+- arduino-CAN by Sandeep Mistry
 - Crypto by Rhys Weatherley
 
 ### Challenge Breakdown
@@ -17,7 +17,7 @@ The primary goal of the challenge is to unlock a control unit, retrieve a stored
    - The ECU will share the 2 byte seed
 
 3. **Cryptographic Handshake**
-   - Compare the first 4 bytes of the hash calculates using SHA256 of the 2 byte random seed.
+   - Compare the first 4 bytes of the hash calculated using SHA256 of the 2 byte random seed.
    - If the computed response matches the control unit’s expectation, the control unit transitions to an unlocked state.
 
 4. **Retrieving the Stored Key**
